@@ -1,2 +1,2 @@
 # Deployd Link
-https://Erlando05.github.io
+https://erlando05.github.io/Portfolio/
