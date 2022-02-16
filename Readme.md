@@ -1,2 +1,2 @@
 # Deployd Link
-https://github.com/Erlando05
+https://Erlando05.github.io
